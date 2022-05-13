@@ -93,6 +93,8 @@ input:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.btns{
     height: 30px;
     width: 80px;
     border-radius: 10px;
