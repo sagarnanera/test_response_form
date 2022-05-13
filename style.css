@@ -99,6 +99,10 @@ input:hover {
     margin: 10px;
 }
 
+.btn{
+    padding: 10px;
+    border-radius: 8px;
+}
 .btn:hover
 {
     background-color: blue;
